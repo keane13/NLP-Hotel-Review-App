@@ -1,4 +1,2 @@
-#NLP-Hotel-Review-App
-#NLP-Hotel-Review-App
-#NLP-Hotel-Review-App
-#NLP-Hotel-Review-Apps
+NLP Hotel Review App
+Aplikasi untuk menganalisa Review Hotel  dibuat menggunakan Streamlit. 
